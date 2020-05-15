@@ -6,7 +6,7 @@
 .main__row__col__25--left {
   float: left;
   width: 25%;
-  margin-top: 6px;
+  margin-top: 0.6rem;
 }
 
 .main__row__col__75--right {
@@ -16,7 +16,7 @@
 }
 
 label {
-  padding: 12px 12px 12px 0;
+  padding: 1.2rem 1.2rem 1.2rem 0;
   font-size: 1.6rem;
   display: inline-block;
 }
@@ -30,9 +30,9 @@ label {
 input[type="submit"] {
   background-color: #C65252;
   color: white;
-  padding: 12px 20px;
+  padding: 1.2rem 2rem;
   border: none;
-  border-radius: 4px;
+  border-radius: 0.4rem;
   cursor: pointer;
   float: right;
 }
@@ -45,8 +45,9 @@ input[type="text"],
 input[type="password"], 
 input[type="textarea"] {
   width: 100%;
-  padding: 12px;
-  border: 1px solid #ccc;
-  border-radius: 4px;
+  padding: 1.2rem;
+  border: 0.1rem solid #ccc;
+  border-radius: 0.4rem;
   resize: vertical;
 }
+
