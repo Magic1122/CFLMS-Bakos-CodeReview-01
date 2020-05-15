@@ -73,13 +73,13 @@
     list-style: none;
   }
   
-  .main-nav__item > a {
+  .main-nav__item a {
     color: #f0ecec;
     font-size: 1.92rem;
     font-weight: 600;
     text-decoration: none;
     letter-spacing: 0.08rem;
-    transition: ease 0.5s;
+    transition: 0.3s;
   }
   
   .main-nav__item > a:hover {
