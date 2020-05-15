@@ -1,0 +1,28 @@
+.main {
+  margin: 4rem auto;
+  width: 80%;
+}
+
+.main__figure__container {
+    margin: 0 auto;
+    display: table;
+    padding: 3.2rem;
+}
+
+.main > a {
+    color: #8C1215;
+    font-weight: 600;
+    text-decoration: none;
+}
+
+.main-content__figcaption {
+    margin-top: 4rem;
+    font-size: 2rem;
+    text-align: center;
+}
+
+.main__figure__img__container {
+    margin: 0 auto;
+    display: table;
+    padding: 3.2rem;
+}
